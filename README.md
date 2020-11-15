@@ -30,7 +30,7 @@ We will need to dive into the data and perform queries to learn when employees w
 
 ### Part 2 of the Analysis-
 
-- In the second part of the analysis we identified current employees who were born between January 1, 1965 and December 31, 1965 who are eligible to participate in a mentorship program. 
+- In the second part of the analysis we identified current employees who were born between January 1, 1965 and December 31, 1965 who are eligible to participate in a mentorship program. Here experienced and successful employees would be stepping back into a part-time role instead of retiring completely and their new role in the company would be as a mentor to the newly hired folks
 
 <p align="left">
   <img src="/Images/mentorship_eligibilty.png">
