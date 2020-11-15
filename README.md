@@ -21,3 +21,9 @@ In order to remove duplicates and return only unique titles we further drilled d
 <p align="left">
   <img src="/Images/unique_titles.png">
   </p>
+
+
+<p align="left">
+  <img src="/Images/retiring_titles.png">
+  </p>
+
