@@ -10,8 +10,14 @@ We will need to dive into the data and perform queries to learn when employees w
 ## Results: 
 
 ### Part 1 of the Analysis-
-In the first part we created a Retirement Titles table that held all the titles of current employees who were born between January 1, 1952 and December 31, 1955. When we further looked into this huge list of 133776 records we realized that there were duplicate enteries probably becuase this list contained every record of change in job/title for the retiring population.
+In the first part we created a Retirement Titles table that held all the titles of current employees who were born between January 1, 1952 and December 31, 1955. When we further looked into this huge list of 133,776 records we realized that there were duplicate enteries, probably becuase this list contained every record of change in job/title for the retiring population.
 
 <p align="left">
   <img src="/Images/retirement_titles.png">
+  </p>
+
+In order to remove duplicates and return only unique titles we further drilled down the above list and did a distinct on the employee number.
+
+<p align="left">
+  <img src="/Images/unique_titles.png">
   </p>
