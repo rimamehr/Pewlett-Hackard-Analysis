@@ -42,4 +42,7 @@ We will need to dive into the data and perform queries to learn when employees w
 
 <p align="left">
   <img src="/Images/mentorship_eligibilty_2.png" width="400">
+  </p> <p align="right">
+  <img src="/Images/mentorship_eligibilty_unique_title.png" width="400">
   </p>
+
