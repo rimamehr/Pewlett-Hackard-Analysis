@@ -41,3 +41,5 @@ We will need to dive into the data and perform queries to learn when employees w
 - We could possibly expand our criteria on the mentorship eligibility table to include current employees with birth date BETWEEN '1963-01-01' AND '1965-12-31'. This would increase our mentorship eligible list of employees from 1549 to 38,401. This would increase the ratio of mentors to new hires from 1: ~58 to 1: ~2  which is much more attainable. 
 
 <img src="/Images/mentorship_eligibilty_2.png" width="400"/> <img src="/Images/mentorship_eligibilty_unique_title.png" width="400"/>
+
+- We re-ran the unique title count from our new mentorship eligibility table as shown above and now have a good amount of retiring individuals to train the new hires although we probably dont need 3 managers since we only have 2 managers retiring.
