@@ -25,7 +25,7 @@ We will need to dive into the data and perform queries to learn when employees w
 - We also did a count by title to see where the biggest void and need is going to be and realized that a large number of retirees are Engineers/Senior Engineers and Staff/Sr Staff. This helps the company better equip itself in knowing which department/roles will need the most hiring to be done in. 
 
 <p align="left">
-  <img src="/Images/retiring_titles.png">
+  <img src="/Images/retiring_titles.png" width="400">
   </p>
 
 ### Part 2 of the Analysis-
