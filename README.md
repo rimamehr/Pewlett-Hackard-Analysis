@@ -10,7 +10,7 @@ We will need to dive into the data and perform queries to learn when employees w
 ## Results: 
 
 ### Part 1 of the Analysis-
-- In the first part we created a Retirement Titles table that held all the titles of current employees who were born between January 1, 1952 and December 31, 1955. When we further looked into this huge list of 133,776 records we realized that there were duplicate enteries, probably becuase this list contained every record of change in job/title for the retiring population.
+- In the first part we created a Retirement Titles table that held all the titles of current employees who were born between January 1, 1952 and December 31, 1955. When we further looked into this huge list of 133,776 records we realized that there were duplicate entries, probably because this list contained every record of change in job/title for the retiring population.
 
 <p align="left">
   <img src="/Images/retirement_titles.png">
@@ -38,6 +38,6 @@ We will need to dive into the data and perform queries to learn when employees w
 
 ## Summary
 - Our conclusion from the above analysis is that there is a large number of employees (90,398) retiring soon with only 1549 employees that are eligible for a mentorship program. There are not enough mentors to train the newly hired folks filling in the large number of vacancies that will be created soon. 
-- We could possibaly expand our criteria on the mentorship eligibility table to include current employees with birth date BETWEEN '1963-01-01' AND '1965-12-31'. This would increase our mentorship eligible list of employees from 1549 to 38,401. This would increase the ratio of mentors to new hires from 1:~58 to 1:~2 which is much more attainable. 
+- We could possibly expand our criteria on the mentorship eligibility table to include current employees with birth date BETWEEN '1963-01-01' AND '1965-12-31'. This would increase our mentorship eligible list of employees from 1549 to 38,401. This would increase the ratio of mentors to new hires from 1:~58 to 1:~2 which is much more attainable. 
 
 
