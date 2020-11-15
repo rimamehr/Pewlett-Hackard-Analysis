@@ -8,3 +8,8 @@ As part of the analysis we have been tasked to future-proof the company by deter
 We will need to dive into the data and perform queries to learn when employees were hired as well as their age. It has been determined that anyone born between 1952 and 1955 will begin to retire so using SQL we created separate list of employees for each department.
 
 ## Results: 
+
+### Part 1 of the Analysis-
+In the first part we created a Retirement Titles table that held all the titles of current employees who were born between January 1, 1952 and December 31, 1955. When we further looked into this huge list of 133776 records we realized that there were duplicate enteries probably becuase this list contained every record of change in job/title for the retiring population.
+
+
