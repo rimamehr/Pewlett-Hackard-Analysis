@@ -28,3 +28,10 @@ We will need to dive into the data and perform queries to learn when employees w
   <img src="/Images/retiring_titles.png">
   </p>
 
+### Part 2 of the Analysis-
+
+- In the second part of the analysis we identified current employees who were born between January 1, 1965 and December 31, 1965 who are eligible to participate in a mentorship program. 
+
+<p align="left">
+  <img src="/Images/mentorship_eligibilty.png">
+  </p>
